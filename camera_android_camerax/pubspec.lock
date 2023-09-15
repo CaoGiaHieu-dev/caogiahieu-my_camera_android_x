@@ -69,10 +69,10 @@ packages:
     dependency: transitive
     description:
       name: build_resolvers
-      sha256: a7417cc44d9edb3f2c8760000270c99dba8c72ff66d0146772b8326565780745
+      sha256: d912852cce27c9e80a93603db721c267716894462e7033165178b91138587972
       url: "https://pub.dev"
     source: hosted
-    version: "2.3.1"
+    version: "2.3.2"
   build_runner:
     dependency: "direct dev"
     description:
@@ -341,10 +341,10 @@ packages:
     dependency: "direct dev"
     description:
       name: mockito
-      sha256: "7d5b53bcd556c1bc7ffbe4e4d5a19c3e112b7e925e9e172dd7c6ad0630812616"
+      sha256: "8b46d7eb40abdda92d62edd01546051f0c27365e65608c284de336dccfef88cc"
       url: "https://pub.dev"
     source: hosted
-    version: "5.4.2"
+    version: "5.4.1"
   package_config:
     dependency: transitive
     description:
@@ -365,10 +365,10 @@ packages:
     dependency: "direct dev"
     description:
       name: pigeon
-      sha256: "5a79fd0b10423f6b5705525e32015597f861c31220b522a67d1e6b580da96719"
+      sha256: "6b270420d0808903f4c2d848aa96f8c12e6275b15989270f24e552939642212f"
       url: "https://pub.dev"
     source: hosted
-    version: "11.0.1"
+    version: "9.2.5"
   platform:
     dependency: transitive
     description:
